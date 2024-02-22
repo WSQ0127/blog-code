@@ -39,6 +39,9 @@ jobs:
     - name: 安装依赖
       if: steps.cache.outputs.cache-hit != 'true'
       run: |
+        rm -rf node_modules package-lock.json
+        npm cache clean --force
+        npm cache verify
         npm install --save
 
     - name: 生成静态文件
