@@ -35,10 +35,11 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  iconfont icon-qq: http://wpa.qq.com/msgrd?v=3&uin=3341659982&site=qq&menu=yes || QQ
   iconfont icon-outlook: mailto:wsq460127@outlook.com || Outlook
-  iconfont icon-twiter: https://twitter.com/wsq127 || Twiter
+  iconfont icon-qq: http://wpa.qq.com/msgrd?v=3&uin=3341659982&site=qq&menu=yes || QQ
   iconfont icon-skype: https://join.skype.com/invite/spzU1Hq7Gtz4 || Skype
+  iconfont icon-twiter: https://twitter.com/wsq127 || Twiter
+  iconfont icon-facebook: https://www.facebook.com/profile.php?id=61555778203805 || Facebook
 
 # Image (圖片設置)
 # --------------------------------------
@@ -103,7 +104,6 @@ error_404:
   enable: true
   subtitle: '额(⊙o⊙)…没有找到这个界面呢……'
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
-
 
 post_meta:
   page: # Home Page

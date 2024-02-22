@@ -2,9 +2,9 @@
   font-family: "iconfont"; /* Project id 4365477 */
   /* Color fonts */
   src: 
-        url('//at.alicdn.com/t/c/font_4365477_r36r310vxtk.woff2?t=1708583089685') format('woff2'),
-        url('//at.alicdn.com/t/c/font_4365477_r36r310vxtk.woff?t=1708583089685') format('woff'),
-        url('//at.alicdn.com/t/c/font_4365477_r36r310vxtk.ttf?t=1708583089685') format('truetype');
+       url('//at.alicdn.com/t/c/font_4365477_yd9yrkpdr2.woff2?t=1708584233244') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4365477_yd9yrkpdr2.woff?t=1708584233244') format('woff'),
+       url('//at.alicdn.com/t/c/font_4365477_yd9yrkpdr2.ttf?t=1708584233244') format('truetype');
 }
 
 .iconfont {
@@ -13,6 +13,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook:before {
+  content: "\e603";
 }
 
 .icon-skype:before {
