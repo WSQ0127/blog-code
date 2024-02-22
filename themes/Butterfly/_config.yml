@@ -35,10 +35,10 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  iconfont icon-zhihu: https://www.zhihu.com/people/wsq127 || 知乎
   iconfont icon-qq: http://wpa.qq.com/msgrd?v=3&uin=3341659982&site=qq&menu=yes || QQ
   iconfont icon-outlook: mailto:wsq460127@outlook.com || Outlook
-  iconfont icon-163: mailto:wsq20120127@163.com || 163邮箱
+  iconfont icon-twiter: https://twitter.com/wsq127 || Twiter
+  iconfont icon-skype: https://join.skype.com/invite/spzU1Hq7Gtz4 || Skype
 
 # Image (圖片設置)
 # --------------------------------------
@@ -690,7 +690,7 @@ canvas_fluttering_ribbon:
 canvas_nest:
   enable: true
   color: '15,255,255' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
-  opacity: 0.85 # the opacity of line (0~1), default: 0.5.
+  opacity: 0.9 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
   count: 127 # the number of lines, default: 99.
   mobile: true # false 手機端不顯示 true 手機端顯示

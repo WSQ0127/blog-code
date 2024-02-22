@@ -1,10 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4365477 */
-  /* Color fonts */
-  src: 
-      url('//at.alicdn.com/t/c/font_4365477_skcmrhvwwk.woff2?t=1703770553455') format('woff2'),
-      url('//at.alicdn.com/t/c/font_4365477_skcmrhvwwk.woff?t=1703770553455') format('woff'),
-      url('//at.alicdn.com/t/c/font_4365477_skcmrhvwwk.ttf?t=1703770553455') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_4365477_4uffmxwvasy.woff2?t=1708582646204') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4365477_4uffmxwvasy.woff?t=1708582646204') format('woff'),
+       url('//at.alicdn.com/t/c/font_4365477_4uffmxwvasy.ttf?t=1708582646204') format('truetype');
 }
 
 .iconfont {
@@ -15,16 +13,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-31haoyou:before {
-  content: "\e603";
+.icon-skype:before {
+  content: "\e882";
 }
 
-.icon-a-185:before {
-  content: "\e6ce";
-}
-
-.icon-zhijing:before {
-  content: "\ec22";
+.icon-twiter:before {
+  content: "\e6cf";
 }
 
 .icon-qq:before {
@@ -33,18 +27,6 @@
 
 .icon-outlook:before {
   content: "\e641";
-}
-
-.icon-163:before {
-  content: "\e602";
-}
-
-.icon-zhihu:before {
-  content: "\e675";
-}
-
-.icon-bilibili:before {
-  content: "\e61f";
 }
 
 .icon-luogu:before {
