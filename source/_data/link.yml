@@ -1,0 +1,87 @@
+class: 
+  class_name: 致敬
+  link_list:
+    1: 
+      name: HEXO
+      link: https://blog.anheyu.com/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、簡單且強大的網誌框架
+    2: 
+      name: Jerry
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/avatar.png
+      descr: A Simple and Card UI Design theme for Hexo
+    3: 
+      name: kkksc03
+      link: https://www.luogu.com.cn/blog/kkksc03/
+      avatar: https://cdn.luogu.com.cn/upload/usericon/1.png
+      descr: 洛谷吉祥物 DA✩ZE
+class2: 
+  class_name: 知名博主
+  link_list:
+    1:
+      name: 张洪HEO
+      link: https://blog.zhheo.com/
+      avatar: https://p.zhheo.com/20234681e06b8e086aa5b15481cb89fd38c7071002.png!cover
+      descr: 分享设计与科技生活
+    2:
+      name: Akilar
+      link: https://akilar.top/
+      avatar: https://npm.elemecdn.com/akiblog@1.0.2/img/author.webp
+      descr: 月满蓬壶灿烂灯，与郎携手至端门。
+    3:
+      name: 安知鱼
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+    4:
+      name: Leonus
+      link: https://blog.leonus.cn/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5
+      descr: 进一寸有进一寸的欢喜。
+    5:
+      name: 偷掉月亮的阿硕
+      link: https://moonshuo.cn/
+      avatar: https://moonshuo.cn/img/avatar.gif
+      descr: 我们一起去偷月亮吧！
+    6:
+      name: 冰卡诺
+      link: https://zfe.space/
+      avatar: https://zfe.space/images/headimage.png
+      descr: 做个有梦想的人！
+class3:
+  class_name: 贵人
+  link_list:
+    1:
+      name: zhoumouren
+      link: https://minecraftdream12345.github.io
+      avatar: https://minecraftdream12345.github.io/img/tsukasa.png
+      descr: 擒屎黄
+    2:
+      name: 呓语梦轩
+      link: https://blog.awaae001.top
+      avatar: https://cdn.luogu.com.cn/upload/image_hosting/pgzzdjb0.png
+      descr: 用心享受生活
+class4:
+  class_name: 好友
+  link_list:
+    1:
+      name: gMr
+      link: https://ganmouren.github.io/
+      avatar: https://ganmouren.github.io/images/avatar.jpg
+      descr: 导师
+    2:
+      name: zhoumouren
+      link: https://minecraftdream12345.github.io
+      avatar: https://minecraftdream12345.github.io/img/tsukasa.png
+      descr: 擒屎黄
+    3:
+      name: Xwty
+      link: https://www.luogu.com.cn/user/927883
+      avatar: https://cdn.luogu.com.cn/upload/usericon/927883.png
+      descr: 大秦外交官，他还没有博客，先放洛谷罢（
+    4:
+      name: sxr
+      link: https://ssunxiangrui.github.io/
+      avatar: https://ssunxiangrui.github.io/img/1053567.png
+      descr: 
