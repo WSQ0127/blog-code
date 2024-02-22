@@ -692,7 +692,7 @@ canvas_nest:
   color: '15,255,255' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.85 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
-  count: 250 # the number of lines, default: 99.
+  count: 127 # the number of lines, default: 99.
   mobile: true # false 手機端不顯示 true 手機端顯示
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
