@@ -934,6 +934,7 @@ inject:
     - <link rel="stylesheet" href="/css/nav_title.css">
     - <link rel="stylesheet" href="/css/tag-diy.css">
     - <link rel="stylesheet" href="/css/qexo.css">
+    - <link rel="stylesheet" href="/css/my_css.css">
     - '<style type="text/css">
         #universe { 
           display: block;
