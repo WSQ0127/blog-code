@@ -1,5 +1,6 @@
 h2
 {
-    background-color:darkgray;
-    border-radius: 5pt;
+    background-color:rgb(98, 98, 98);
+    border-radius: 2pt;
+    right:-2pt;
 }
