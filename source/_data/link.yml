@@ -11,11 +11,6 @@ class:
       link: https://butterfly.js.org/
       avatar: https://butterfly.js.org/img/avatar.png
       descr: A Simple and Card UI Design theme for Hexo
-    3: 
-      name: kkksc03
-      link: https://www.luogu.com.cn/blog/kkksc03/
-      avatar: https://cdn.luogu.com.cn/upload/usericon/1.png
-      descr: 洛谷吉祥物 DA✩ZE
 class2: 
   class_name: 知名博主
   link_list:
@@ -50,7 +45,7 @@ class2:
       avatar: https://zfe.space/images/headimage.png
       descr: 做个有梦想的人！
 class3:
-  class_name: 贵人
+  class_name: 鸣谢
   link_list:
     1:
       name: zhoumouren
