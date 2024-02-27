@@ -45,13 +45,13 @@ class2:
       avatar: https://zfe.space/images/headimage.png
       descr: 做个有梦想的人！
 class3:
-  class_name: 鸣谢
+  class_name: 特殊鸣谢（其他请移步至说说）
   link_list:
     1:
       name: zhoumouren
       link: https://minecraftdream12345.github.io
       avatar: https://minecraftdream12345.github.io/img/tsukasa.png
-      descr: 擒屎黄
+      descr: 
     2:
       name: 呓语梦轩
       link: https://blog.awaae001.top
@@ -64,19 +64,24 @@ class4:
       name: gMr
       link: https://ganmouren.github.io/
       avatar: https://ganmouren.github.io/images/avatar.jpg
-      descr: 导师
+      descr: 
     2:
       name: zhoumouren
       link: https://minecraftdream12345.github.io
       avatar: https://minecraftdream12345.github.io/img/tsukasa.png
-      descr: 擒屎黄
+      descr: 
     3:
       name: Xwty
       link: https://www.luogu.com.cn/user/927883
       avatar: https://cdn.luogu.com.cn/upload/usericon/927883.png
-      descr: 大秦外交官，他还没有博客，先放洛谷罢（
+      descr: 
     4:
       name: sxr
+      link: https://jiuci.top/
+      avatar: https://ssunxiangrui.github.io/img/1053567.png
+      descr: 
+    4:
+      name: yeyanpro
       link: https://ssunxiangrui.github.io/
       avatar: https://ssunxiangrui.github.io/img/1053567.png
       descr: 
