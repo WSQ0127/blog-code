@@ -18,7 +18,7 @@ date: 2023-12-05 23:42:04
 
 代码来源：
 
-{% link 浙江省NOIP 2023考生代码, http://www.cs.zju.edu.cn/csen/2023/1118/c62747a2828209/page.htm %}
+{% link 浙江省 NOIP 2023 考生代码, http://www.cs.zju.edu.cn/csen/2023/1118/c62747a2828209/page.htm %}
 
 ## 正文
 ### 统计
