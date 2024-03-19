@@ -1,3 +1,6 @@
+#nav *::after{
+    background-color: transparent!important;
+}
 .site-page::before{
     opacity: 0;
     background-color: var(--lyx-theme)!important;
