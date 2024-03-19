@@ -896,7 +896,7 @@ lazyload:
   blur: false
 # 主页卡片样式
 # Docs: https://akilar.top/posts/d6b69c49/
-index_card_style: multicard # slidecard | multicard
+index_card_style: slidecard # slidecard | multicard
 # PWA
 # See https://github.com/JLHwung/hexo-offline
 # ---------------
