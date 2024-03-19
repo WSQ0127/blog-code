@@ -1,11 +1,15 @@
+#nav *::after{
+    background-color: transparent;
+}
 .site-page{
-    position: relative;
-    font-size: 30px; /*一定要把字体调大点，否则效果惨不忍睹！*/
-    transition: all 0.3s ease;
+    padding: 5px;
+    margin:3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    white-space: nowrap;
 }
 .site-page:hover{
-    background-color: #80C8F8!important;
-    border-radius: 8px;
-    transition: .3s;
-    box-shadow: 0 0 5px #80C8F8;
+    background-color: #80C8F8;
+    box-shadow:0 0 3px #80C8F8;
+    border-radius: 5px;
 }
