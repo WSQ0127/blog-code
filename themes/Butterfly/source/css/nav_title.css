@@ -12,14 +12,14 @@
     top:0;
     left:0;
     content:'回到顶部';
-    background-color: var(--lyx-theme);
+    background-color: #80C8F8;
     transition: all .3s;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     -ms-transition: all .3s;
     -o-transition: all .3s;
     opacity: 0;
-    box-shadow: 0 0 3px var(--lyx-theme);
+    box-shadow: 0 0 3px #80C8F8;
     line-height: 45px; /*如果垂直位置不居中可以微调此值，也可以删了*/
 }
 #page-name:hover:before{
