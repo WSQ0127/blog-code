@@ -654,7 +654,7 @@ rightside_bottom:
 # hexo-tag-cloud
 tag_cloud:
     textFont: Microsoft YaHei, monospace
-    textColor: '#999'
+    textColor: '#B8B8B8'
     textHeight: 2
     outlineColor: '#E2E1D1' # '#B5B4AA' '#E2E1D1'
     maxSpeed: 0.2

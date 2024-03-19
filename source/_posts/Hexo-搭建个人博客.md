@@ -9,6 +9,7 @@ tags:
   - blog
   - 个人博客
 abbrlink: 553355a7
+cover: https://cdn.jsdelivr.net/gh/xiaoliblog/image@88d6104165d7beac0f2c2844a539c0feffa4f33d/2021/01/24/993832d0c82e0ea4f5f7d61fb74320a6.png
 ---
 ## 写在最前
 
