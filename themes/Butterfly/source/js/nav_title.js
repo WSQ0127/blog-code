@@ -32,7 +32,7 @@ function scrollToTop(){
     btf.scrollToDest(0, 500);
 }
 //修复没有弄右键菜单的童鞋无法回顶部的问题
-document.getElementById("page-name").innerText = document.title.split(" | Ariasakaの小窝")[0];
+document.getElementById("page-name").innerText = document.title.split(" | 114514")[0];
 /*这里是去掉你的网站全局名称的设置，如果你不需要去掉，你可以写成：
 document.getElementById("page-name").innerText=document.title
 
