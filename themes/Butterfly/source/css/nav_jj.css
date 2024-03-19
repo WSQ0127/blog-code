@@ -20,7 +20,6 @@
     width:100%;
     height:100%;
     box-shadow: 0 0 5px #80C8F8;
-    font-family: "Font Awesome 6 Free";
     text-align: center;
     color:black;
     line-height:34px;/*如果有溢出或者垂直不居中的现象微调一下这个参数*/
