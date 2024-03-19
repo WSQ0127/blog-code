@@ -2,6 +2,7 @@
     background-color: transparent;
 }
 .site-page{
+    display:none;
     padding: 5px;
     margin:3px;
     padding-left: 10px;
