@@ -1,6 +1,7 @@
 #nav *::after{
     background-color: transparent!important;
 }
+/*
 .site-page::before{
     opacity: 0;
     background-color: #80C8F8!important;
@@ -22,8 +23,8 @@
     box-shadow: 0 0 5px #80C8F8;
     text-align: center;
     color:black;
-    line-height:34px;/*如果有溢出或者垂直不居中的现象微调一下这个参数*/
-    font-size: 18px;/*根据个人喜好*/
+    line-height:34px;
+    font-size: 18px;
 }
 .site-page:hover::before{
     opacity: 1;
@@ -32,4 +33,14 @@
 .site-page{
     position: relative;
     font-size: 24px; 
+}
+*/
+.site-page{
+    position: relative;
+    font-size: 24px; 
+}
+.site-page:hover{
+    opacity: 1;
+    scale:1.03;
+    background-color: #80C8F8!important;
 }
