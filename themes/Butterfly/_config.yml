@@ -938,6 +938,7 @@ inject:
     - <link rel="stylesheet" href="/css/tag-diy.css">
     - <link rel="stylesheet" href="/css/qexo.css">
     - <link rel="stylesheet" href="/css/blackout.css">
+    - <link rel="stylesheet" href="/css/gdt.css">
     # - <link rel="stylesheet" href="/css/rightmenu.css">
     - '<style type="text/css">
         #universe { 
