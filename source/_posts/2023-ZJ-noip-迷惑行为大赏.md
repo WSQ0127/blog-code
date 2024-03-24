@@ -54,7 +54,6 @@ date: 2023-12-05 23:42:04
 
 ZJ-0595:
 
-逆行+听天由命+《消失的分号》+有头无尾
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
