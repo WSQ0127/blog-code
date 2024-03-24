@@ -52,7 +52,7 @@ rmf.switchReadMode = function(){
 //复制选中文字
 rmf.copySelect = function(){
     document.execCommand('Copy',false,null);
-    alert("复制成功！")
+    alert("复制成功！");  
 }
 
 //回到顶部

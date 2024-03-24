@@ -172,7 +172,7 @@ reward:
   enable: true
   text: 如果您有收获，就请本蒟蒻喝杯奶茶吧~~小学生钛缺钱了（bei
   QR_code:
-    - img: https://cdn.luogu.com.cn/upload/image_hosting/1mm8niui.png
+    - img: https://image.wsq127.top/file/c7254e3378d24974dfa47.png
       link: 
       text: wechat
     # - img: /img/alipay.jpg
@@ -647,7 +647,7 @@ footer_bg: transparent
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
-  header: header
+  header: transparent
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside_bottom:
@@ -939,7 +939,7 @@ inject:
     - <link rel="stylesheet" href="/css/qexo.css">
     - <link rel="stylesheet" href="/css/blackout.css">
     - <link rel="stylesheet" href="/css/gdt.css">
-    # - <link rel="stylesheet" href="/css/rightmenu.css">
+    - <link rel="stylesheet" href="/css/rightmenu.css">
     - '<style type="text/css">
         #universe { 
           display: block;
@@ -965,8 +965,8 @@ inject:
     - <script src="/js/weather.js"></script>  # 天气插件
     - <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>  # 天气插件官方js
     - <script src="/js/nav_title.js"></script>
-    # - <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    # - <script src="/js/rightmenu.js"></script>
+    - <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    - <script src="/js/rightmenu.js"></script>
 
 
 # CDN
