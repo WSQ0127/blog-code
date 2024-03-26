@@ -9,6 +9,7 @@ tags:
   - 统计
 abbrlink: ffca3de1
 date: 2023-12-05 23:42:04
+cover: https://image.wsq127.top/file/a9f887462ccc16200c5f3.png
 ---
 ## 前言
 
