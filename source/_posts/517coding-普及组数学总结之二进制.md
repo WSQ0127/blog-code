@@ -1,5 +1,5 @@
 ---
-title: 517coding 普及组数学总结之二进制
+title: 517编程普及组数学之二进制
 categories: OI
 tags:
   - OI

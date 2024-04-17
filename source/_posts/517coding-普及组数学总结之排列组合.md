@@ -1,5 +1,5 @@
 ---
-title: 517coding 普及组数学总结之排列组合
+title: 517编程普及组数学之排列组合
 categories: OI
 tags:
   - OI
