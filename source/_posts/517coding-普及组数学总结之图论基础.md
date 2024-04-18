@@ -3,6 +3,7 @@ title: 517编程普及组数学之图论基础
 categories: OI
 tags:
   - OI
+  - C++
   - 517coding
   - 数学
   - 图论
