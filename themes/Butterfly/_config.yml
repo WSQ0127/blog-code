@@ -58,7 +58,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://cdn.luogu.com.cn/upload/image_hosting/ubj79pj0.png
+index_img: transparent
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://cdn.luogu.com.cn/upload/image_hosting/ubj79pj0.png
@@ -626,7 +626,7 @@ theme_color:
 # The position of site info, eg: 300px/300em/300rem/10% (主頁標題距離頂部距離)
 index_site_info_top:
 # The height of top_img, eg: 300px/300em/300rem (主頁top_img高度)
-index_top_img_height:
+index_top_img_height: 400px
 
 # The user interface setting of category and tag page (category和tag頁的UI設置)
 # index - same as Homepage UI (index 值代表 UI將與首頁的UI一樣)
@@ -930,7 +930,7 @@ inject:
   head:
     - <link rel="stylesheet" href="/css/iconfont.css">
     - <link rel="stylesheet" href="/css/font.css">
-    - <link rel="stylesheet" href="/css/header_bl.css">
+    # - <link rel="stylesheet" href="/css/header_bl.css">
     - <link rel="stylesheet" href="/css/nav_jz.css">
     - <link rel="stylesheet" href="/css/nav_jj.css">
     - <link rel="stylesheet" href="/css/nav_title.css">
