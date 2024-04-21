@@ -145,6 +145,7 @@ tag_plugins:
 mathjax:
   enable: true
 
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

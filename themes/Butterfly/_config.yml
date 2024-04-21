@@ -636,11 +636,10 @@ tag_ui: # 留空或 index
 
 # Stretches the lines so that each line has equal width（文字向兩側對齊，對最後一行無效）
 text_align_justify: false
-
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://image.wsq127.top/file/41137d6c4115155569877.jpg)
+background: url(https://image.wsq127.top/file/d59906b584fee9de9a142.png)
 
 # Footer Background
 footer_bg: transparent
@@ -691,7 +690,7 @@ canvas_fluttering_ribbon:
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: true
+  enable: false
   color: '15,255,255' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.9 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
@@ -990,6 +989,12 @@ CDN:
   # For example: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
   custom_format:
 
+
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+  pagination_dir: page
   option:
     # abcjs_basic_js:
     # activate_power_mode:
