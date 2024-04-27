@@ -940,6 +940,7 @@ inject:
     - <link rel="stylesheet" href="/css/post.css">
     - <link rel="stylesheet" href="/css/gdt.css">
     - <link rel="stylesheet" href="/css/rightmenu.css">
+    - <link rel="stylesheet" href="/css/weather.css.css">
     - '<style type="text/css">
         #universe { 
           display: block;
