@@ -233,7 +233,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: qwq突破了瓶颈，发现还有瓶盖（（（（（（（
+    description: 突破了瓶颈，发现还有瓶盖qwq
     button:
       enable: true
       icon: iconfont icon-luogu
