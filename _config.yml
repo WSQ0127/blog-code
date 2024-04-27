@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: wsqのblog
+title: 卿云
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://wsq0127.github.io
+url: http://blog.wsq127.top
 permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:

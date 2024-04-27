@@ -241,7 +241,7 @@ aside:
       link: https://www.luogu.com.cn/user/743352
   card_announcement:
     enable: true
-    content: "Welcome to wsqのblog"
+    content: "欢迎各位大佬/神犇来到我的小站"
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
