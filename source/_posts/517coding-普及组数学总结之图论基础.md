@@ -67,7 +67,7 @@ date: 2024-04-18 00:10:06
 
     这样似乎不好理解，用一个简单的图排序一遍就懂了。
 
-    ```mermaid
+    {% mermaid %}
     graph LR
     
     A((A))
@@ -80,7 +80,7 @@ date: 2024-04-18 00:10:06
     B-->D
     C-->E
     D-->E
-    ```
+    {% endmermaid %}
 
     
 
@@ -103,7 +103,7 @@ date: 2024-04-18 00:10:06
     2. 删去入度为 $0$ 的节点，并更新其它节点的入度
     3. 反复 1、2 步，直到没有节点
 
-    ```mermaid
+    {% mermaid %}
     graph LR
     
     A((A))
@@ -117,9 +117,9 @@ date: 2024-04-18 00:10:06
     B-->D
     C-->E
     D-->E
-    ```
+    {% endmermaid %}
 
-    ```mermaid
+    {% mermaid %}
     graph LR
     
     A((1))
@@ -133,9 +133,9 @@ date: 2024-04-18 00:10:06
     B-->D
     C-->E
     D-->E
-    ```
+    {% endmermaid %}
 
-    ```mermaid
+    {% mermaid %}
     graph LR
     
     A((1))
@@ -149,9 +149,9 @@ date: 2024-04-18 00:10:06
     B-.->D
     C-.->E
     D-->E
-    ```
+    {% endmermaid %}
 
-    ```mermaid
+    {% mermaid %}
     graph LR
     
     A((1))
@@ -165,7 +165,7 @@ date: 2024-04-18 00:10:06
     B-.->D
     C-.->E
     D-.->E
-    ```
+    {% endmermaid %}
 
     
 
