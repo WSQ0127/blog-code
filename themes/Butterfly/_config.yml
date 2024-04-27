@@ -220,7 +220,8 @@ footer:
 
 # aside (側邊欄)
 # --------------------------------------
-
+# RSS订阅
+rss: /atom.xml
 aside:
   enable: true
   hide: false
