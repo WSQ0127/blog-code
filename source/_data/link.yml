@@ -45,7 +45,7 @@ class2:
       avatar: https://zfe.space/images/headimage.png
       descr: 做个有梦想的人！
 class3:
-  class_name: 特殊鸣谢（其他请移步至说说）
+  class_name: 特别鸣谢
   link_list:
     1:
       name: zhoumouren
