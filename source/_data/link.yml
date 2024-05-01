@@ -97,6 +97,6 @@ class4:
         descr: 柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜
     8:    
         name: Redish101 Blog
-        desc: 人文 科技 白日梦
-        icon: https://blog.redish101.top/favicon.ico
         link: https://blog.redish101.top
+        avatar: https://blog.redish101.top/favicon.ico
+        descr: 人文 科技 白日梦
