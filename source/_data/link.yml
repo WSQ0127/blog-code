@@ -11,40 +11,7 @@ class:
       link: https://butterfly.js.org/
       avatar: https://butterfly.js.org/img/avatar.png
       descr: A Simple and Card UI Design theme for Hexo
-class2: 
-  class_name: 知名博主
-  link_list:
-    1:
-      name: 张洪HEO
-      link: https://blog.zhheo.com/
-      avatar: https://p.zhheo.com/20234681e06b8e086aa5b15481cb89fd38c7071002.png!cover
-      descr: 分享设计与科技生活
-    2:
-      name: Akilar
-      link: https://akilar.top/
-      avatar: https://npm.elemecdn.com/akiblog@1.0.2/img/author.webp
-      descr: 月满蓬壶灿烂灯，与郎携手至端门。
-    3:
-      name: 安知鱼
-      link: https://blog.anheyu.com/
-      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
-      descr: 生活明朗，万物可爱
-    4:
-      name: Leonus
-      link: https://blog.leonus.cn/
-      avatar: https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5
-      descr: 进一寸有进一寸的欢喜。
-    5:
-      name: 偷掉月亮的阿硕
-      link: https://moonshuo.cn/
-      avatar: https://moonshuo.cn/img/avatar.gif
-      descr: 我们一起去偷月亮吧！
-    6:
-      name: 冰卡诺
-      link: https://zfe.space/
-      avatar: https://zfe.space/images/headimage.png
-      descr: 做个有梦想的人！
-class3:
+class2:
   class_name: 特别鸣谢
   link_list:
     1:
@@ -57,7 +24,7 @@ class3:
       link: https://blog.awaae001.top
       avatar: https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg
       descr: 用心享受生活
-class4:
+class3:
   class_name: 好友
   link_list:
     1:
@@ -85,17 +52,20 @@ class4:
       link: https:/yeyanpro.cn/
       avatar: https://image.wsq127.top/file/0e38a3392d13d42ba490f.jpg
       descr: 
-    6:
+class4:
+  class_name: 博主
+  link_list:
+    1:
         name: 呓语梦轩
         link: https://blog.awaae001.top
         avatar: https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg
         descr: 用心享受生活
-    7:
+    2:
         name: 清羽飞扬
         link: https://blog.qyliu.top/
         avatar: https://blog.qyliu.top/info/avatar.ico
         descr: 柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜
-    8:    
+    3:    
         name: Redish101 Blog
         link: https://blog.redish101.top
         avatar: https://blog.redish101.top/favicon.ico
