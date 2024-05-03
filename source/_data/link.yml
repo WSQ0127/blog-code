@@ -1,31 +1,5 @@
-class: 
-  class_name: 框架&主题
-  link_list:
-    1: 
-      name: HEXO
-      link: https://blog.anheyu.com/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
-    2: 
-      name: Butterly
-      link: https://butterfly.js.org/
-      avatar: https://butterfly.js.org/img/avatar.png
-      descr: A Simple and Card UI Design theme for Hexo
-class2:
-  class_name: 特别鸣谢
-  link_list:
-    1:
-      name: zhoumouren
-      link: https://minecraftdream12345.github.io
-      avatar: https://minecraftdream12345.github.io/img/tsukasa.png
-      descr: 
-    2:
-      name: 呓语梦轩
-      link: https://blog.awaae001.top
-      avatar: https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg
-      descr: 用心享受生活
-class3:
-  class_name: 线下好友
+class1:
+  class_name: 好友
   link_list:
     1:
       name: gMr
@@ -52,7 +26,7 @@ class3:
       link: https:/yeyanpro.cn/
       avatar: https://image.wsq127.top/file/0e38a3392d13d42ba490f.jpg
       descr: 
-class4:
+class2:
   class_name: 博主
   link_list:
     1:
