@@ -18,7 +18,7 @@ menu:
   友链||fas fa-user-friends:
     友人帐: /flink/ || fas fa-address-book
     朋友圈: /fcircle/ || fas fa-user-circle
-  说说: /talks/ || fas fa-broadcast-tower
+  说说: /talks/ || fas fa-poll-people
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
