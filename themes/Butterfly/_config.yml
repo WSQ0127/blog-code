@@ -17,8 +17,8 @@ menu:
     分类: /categories/ || fas fa-folder-open
   友链||fas fa-user-friends:
     友人帐: /flink/ || fas fa-address-book
-    朋友圈: /fcircle/ || fas fa-user-circle
-  说说: /talks/ || fas fa-poll-people
+    朋友圈: /fcircle/ || fas fa-poll-people
+  说说: /talks/ || fas fa-broadcast-tower
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
