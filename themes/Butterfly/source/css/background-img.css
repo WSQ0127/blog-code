@@ -1,0 +1,9 @@
+#web_bg
+{
+    background-image: url(https://image.wsq127.top/file/4df2b7eb29a6b813d6bd1.png);
+}
+[data-theme='dark'] #web_bg:before
+{
+    background-color: #00000000;
+    background-image: url(https://image.wsq127.top/file/579fc1421c61dd1fbe57d.png);
+}
