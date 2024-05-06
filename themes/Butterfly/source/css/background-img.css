@@ -5,9 +5,17 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    width: 100%;
+    height: 100%;
 }
 [data-theme='dark'] #web_bg:before
 {
     background-color: #00000000;
     background-image: url(https://image.wsq127.top/file/579fc1421c61dd1fbe57d.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
 }
