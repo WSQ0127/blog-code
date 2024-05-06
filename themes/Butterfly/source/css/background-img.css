@@ -1,23 +1,13 @@
 #web_bg
 {
     background-image: url(https://image.wsq127.top/file/4df2b7eb29a6b813d6bd1.png);
-    position: fixed;
-    z-index: -999;
-    width: 100%;
-    background-attachment: local;
-    background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-position: center;
 }
 [data-theme='dark'] #web_bg:before
 {
     background-color: #00000000;
     background-image: url(https://image.wsq127.top/file/579fc1421c61dd1fbe57d.png);
-    position: fixed;
-    z-index: -999;
-    width: 100%;
-    background-attachment: local;
-    background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-position: center;
 }
