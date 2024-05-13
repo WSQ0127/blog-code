@@ -1,6 +1,6 @@
 /* 导航栏做居中处理 */
 #nav-right{
-    flex:1 1 auto;
+    flex:1;
     justify-content: flex-end;
     margin-left: auto;
     display: flex;
