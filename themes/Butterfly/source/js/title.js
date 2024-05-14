@@ -9,7 +9,7 @@ document.addEventListener('visibilitychange',function()
     }
     else
     {
-    document.title="♪(^∇^*)欢迎肥来！";
-    titleTime=setTimeout(function(){document.title=OriginTitile;},2000);
+        document.title="♪(^∇^*)欢迎肥来！";
+        titleTime=setTimeout(function(){document.title=OriginTitile;},1000);
     }
 });
