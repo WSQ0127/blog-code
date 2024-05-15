@@ -1,24 +1,9 @@
-blockquote {
-    padding: 20px;
-    position: relative;
-    border-radius: 8px;
-    border: 1px solid #49b1f5;
-    /* background-color: var(--background-color); */
-    box-shadow: 0 2 px4px rgba(0, 0, 0, 0.1);
-    font-size: 16px;
-    line-height: 1.5;
-    /* color: var(--text-color); */
-    color: white
+.magnet_link_context>*
+{
+    color: #B8B8B8;
+    transition: all 0.3s ease;
 }
-
-blockquote::before {
-    content: "";
-    position: absolute;
-    top: -8px;
-    left: -8px;
-    width: 16px;
-    height: 16px;
-    border-radius: 5px;
-    background-color: #49b1f5;
-    transform: rotate(45deg);
-} 
+.magnet_item:hover>.magnet_link>.magnet_link_context>*
+{
+    color: white;
+}

@@ -160,7 +160,7 @@ gitcalendar:
 
 swiper:
   enable: true
-  priority: 2
+  priority: 1
   enable_page: /
   layout:
     type: id
@@ -168,9 +168,10 @@ swiper:
     index: 0
   temple_html: '<div class="recent-post-item" style="height: auto;width: 100%"><div class="blog-slider swiper-container-fade swiper-container-horizontal" id="swiper_container">${temple_html_item}</div></div>'
   plus_style: ""
+
 magnet:
   enable: true
-  priority: 1
+  priority: 2
   enable_page: /
   type: categories
   devide: 2
@@ -196,7 +197,7 @@ magnet:
   color_setting:
     text_color: black
     text_hover_color: white
-    background_color: "#232323"
+    background_color: "#121212"
     background_hover_color: "#3b70fc"
   layout:
     type: id
