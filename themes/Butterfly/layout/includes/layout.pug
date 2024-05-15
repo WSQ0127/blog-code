@@ -11,7 +11,7 @@ html(lang=config.language data-theme=theme.display_mode class=htmlClassHideAside
     if theme.preloader.enable
       !=partial('includes/loading/index', {}, {cache: true})
 
-    if theme.background
+    if theme.background 
       #web_bg
       
     !=partial('includes/sidebar', {}, {cache: true})
@@ -42,7 +42,7 @@ html(lang=config.language data-theme=theme.display_mode class=htmlClassHideAside
 
     else
       include ./404.pug
-
+    include ./music.pug
     include ./rightside.pug
     !=partial('includes/rightmenu', {}, {cache: true})
     include ./additional-js.pug

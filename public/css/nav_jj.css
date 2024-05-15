@@ -20,15 +20,11 @@
 }
 .site-page:hover:not(.child)
 {
-    background-color: #80c8f8;
-    box-shadow:0 0 3px #80c8f8!important;
+    background-color: #3b70fc;
+    box-shadow:0 0 3px #3b70fc!important;
     border-radius: 5px;
 }
 .child:hover
 {
-    background-color: #80c8f8;
-}
-.site-page:hover> *
-{
-    color: #4C4948;
+    background-color: #3b70fc;
 }
