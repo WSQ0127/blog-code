@@ -54,3 +54,16 @@ class2:
         link: https://howiehz.top
         avatar: https://howiehz.top/upload/ico.ico
         descr: 互联网上的一座小岛
+class3:
+  class_name: 博客收录
+  link_list:
+    1:
+        name: 个站商店
+        link: https://storeweb.cn/
+        avatar: https://www.imets.cn/uploads/2024/03/3974794217.png
+        descr: 一个精致的，带社交元素的个人网站发布平台，博客收录网站
+    2:
+        name: 浪海导航
+        link: https://www.langhai.net
+        avatar: https://www.langhai.net/assets/images/langhai-logo.png
+        descr: 
