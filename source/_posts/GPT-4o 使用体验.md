@@ -2,7 +2,7 @@
 abbrlink: ''
 categories:
 - - 科技
-cover: ''
+cover: img/GPT-4o.png
 date: '2024-05-15T09:27:49.232583+08:00'
 tags:
 - 科技
@@ -11,7 +11,7 @@ tags:
 - ChatGPT
 - 使用体验
 title: GPT -4o 使用体验
-updated: '2024-05-15T09:50:34.945+08:00'
+updated: '2024-05-15T09:59:09.424+08:00'
 ---
 ## 写到最前
 
