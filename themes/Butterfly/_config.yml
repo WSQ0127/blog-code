@@ -944,6 +944,7 @@ inject:
     - <link rel="stylesheet" href="/css/rightmenu.css">
     - <link rel="stylesheet" href="/css/weather.css">
     - <link rel="stylesheet" href="/css/background-img.css"> 
+    - <link rel="stylesheet" href="/css/background.css"> 
     - <link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.14/tianli_gpt.css">
     - '<style type="text/css">
         #universe { 

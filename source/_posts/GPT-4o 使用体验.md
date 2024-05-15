@@ -1,15 +1,15 @@
 ---
-abbrlink: ''
+abbrlink: f895b5a9
 categories:
-- - 科技
+  - - 科技
 cover: img/GPT-4o.png
 date: '2024-05-15T09:27:49.232583+08:00'
 tags:
-- 科技
-- AI
-- OpenAi
-- ChatGPT
-- 使用体验
+  - 科技
+  - AI
+  - OpenAi
+  - ChatGPT
+  - 使用体验
 title: GPT -4o 使用体验
 updated: '2024-05-15T09:59:09.424+08:00'
 ---

@@ -6,7 +6,7 @@
   <link href="http://blog.wsq127.top/atom.xml" rel="self"/>
   
   <link href="http://blog.wsq127.top/"/>
-  <updated>2024-04-27T07:52:33.032Z</updated>
+  <updated>2024-05-15T01:59:09.424Z</updated>
   <id>http://blog.wsq127.top/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GPT -4o 使用体验</title>
+    <link href="http://blog.wsq127.top/posts/f895b5a9.html"/>
+    <id>http://blog.wsq127.top/posts/f895b5a9.html</id>
+    <published>2024-05-15T01:27:49.232Z</published>
+    <updated>2024-05-15T01:59:09.424Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="写到最前"><a class="markdownIt-Anchor" href="#写到最前"></a> 写到最前</h2><p>就在昨天凌晨时，OpenAI 在首次「春季新品发布会」上，发布了最新一代旗舰大模型 GPT-4o。与之前只能打文字相比，变得更智能，可横跨语音、文本和视觉，超低时延的语音助手和翻译，并且可以感知人类情绪。</p><p>我对这一方面了解不多，所以并不能进行客观的评价，只能聊一聊我自己的使用体验。</p><p>昨天中午，我打开 GPT 问问题时，本来是做参考用的，结果我发现，比平时的要好太多了，可以直接拿来用的，接着，我又继续问了几个问题，直到他提醒我：</p><blockquote><p>您的 GPT-4o 使用额度已超限，下次额度刷新时间为 …(我当时没看清)</p></blockquote><p>我才发现原来我用的是 GPT-4o。</p><h2 id="文字"><a class="markdownIt-Anchor" href="#文字"></a> 文字</h2><p>对于文字，GPT-4o 明显比 GPT-3.5 强太多，据报道，对于 GPT-4 也毫不逊色，不过我钛穷，没用过 GPT-4（（（大悲</p><p>由于当时光用来干正事了，额度没了，所以，“明天”再来写罢（（</p><h2 id="视觉"><a class="markdownIt-Anchor" href="#视觉"></a> 视觉</h2><p>当时听说了这个功能后，我立马来试了一下。</p><p>我给了他一个网页布局以及要实现的功能。</p><p>于是乎，，，，，，</p><blockquote><p>您的 GPT-4o 使用额度已超限，下次额度刷新时间为 …(也没看清)</p></blockquote><p>”明天“再来写（（（</p><h2 id="语音"><a class="markdownIt-Anchor" href="#语音"></a> 语音</h2><p>OpenAI 官网中提到，GPT-4o 在谈话中对音频输入的平均响应时间为 320 毫秒，最短的响应时间为 232 毫秒。</p><p>“明天”再来写（（（（</p><h2 id="明天再来写"><a class="markdownIt-Anchor" href="#明天再来写"></a> “明天”再来写</h2><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;写到最前&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#写到最前&quot;&gt;&lt;/a&gt; 写到最前&lt;/h2&gt;
+&lt;p&gt;就在昨天凌晨时，OpenAI 在首次「春季新品发布会」上，发布了最新一代旗舰大模型 GPT-4o。与之前只能打文字相比，变得更智能，</summary>
+      
+    
+    
+    
+    <category term="科技" scheme="http://blog.wsq127.top/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+    <category term="科技" scheme="http://blog.wsq127.top/tags/%E7%A7%91%E6%8A%80/"/>
+    
+    <category term="AI" scheme="http://blog.wsq127.top/tags/AI/"/>
+    
+    <category term="OpenAi" scheme="http://blog.wsq127.top/tags/OpenAi/"/>
+    
+    <category term="ChatGPT" scheme="http://blog.wsq127.top/tags/ChatGPT/"/>
+    
+    <category term="使用体验" scheme="http://blog.wsq127.top/tags/%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>517编程普及组数学之筛法</title>
