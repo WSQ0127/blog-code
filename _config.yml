@@ -174,7 +174,7 @@ magnet:
   priority: 2
   enable_page: /
   type: categories
-  devide: 2
+  devide: 3
   display:
     - name: OI
       display_name: 搓搓OI
