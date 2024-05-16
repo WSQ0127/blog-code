@@ -7,7 +7,7 @@
 {
     color: white;
 }
-[data-theme='light'].magnet_item
+[data-theme='light'].magnet_link
 {
     background-color: #FFFFFF;
 }
