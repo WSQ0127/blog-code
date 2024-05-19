@@ -54,6 +54,11 @@ class2:
         link: https://howiehz.top
         avatar: https://howiehz.top/upload/ico.ico
         descr: 互联网上的一座小岛
+    6:
+        name: Android
+        link: https://android99.com
+        avatar: https://android99.com/img/avatar.png
+        descr: 边缘矩阵
 class3:
   class_name: 博客收录
   link_list:
