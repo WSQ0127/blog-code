@@ -10,6 +10,7 @@ tags:
 cover: 'https://image.wsq127.top/file/c77b717f9f211d6a3607c.png'
 abbrlink: a996222c
 date: 2024-04-19 00:01:28
+password: 517coding.com
 ---
 **作用**：筛法可以求出 $[1,n]$​ 的所有素数
 

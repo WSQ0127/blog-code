@@ -10,6 +10,7 @@ tags:
 cover: 'https://image.wsq127.top/file/bb91b00c28fd2210948bd.png'
 abbrlink: 362ffdf7
 date: 2024-04-18 00:10:06
+password: 517coding.com
 ---
 在算法或数学中，图是由若干给定的顶点及连接两顶点的边所构成的图形，这种图形通常用来描述某些事物之间的某种特定关系。顶点用于代表事物，连接两顶点的边则用于表示两个事物间具有这种关系。
 
