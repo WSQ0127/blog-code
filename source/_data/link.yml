@@ -62,8 +62,8 @@ class2:
     7:
         name: 张洪Heo
         link: https://blog.zhheo.com/
-        avatar: 分享设计与科技生活
-        descr: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+        avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+        descr: 分享设计与科技生活
 class3:
   class_name: 博客收录
   link_list:
