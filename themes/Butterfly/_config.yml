@@ -39,11 +39,11 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  iconfont icon-outlook: mailto:wsq460127@outlook.com || Outlook
   iconfont icon-qq: http://wpa.qq.com/msgrd?v=3&uin=3341659982&site=qq&menu=yes || QQ
+  iconfont icon-skype: /img/telegram.jpg || Telegram
   iconfont icon-skype: https://join.skype.com/invite/spzU1Hq7Gtz4 || Skype
-  iconfont icon-twiter: https://twitter.com/wsq127 || Twiter
-  iconfont icon-facebook: https://www.facebook.com/profile.php?id=61555778203805 || Facebook
+  iconfont icon-outlook: mailto:wsq460127@outlook.com || Outlook
+  iconfont icon-skype: https://www.luogu.com.cn/user/743352 || 洛谷
 
 # Image (圖片設置)
 # --------------------------------------
@@ -239,9 +239,9 @@ aside:
     description: 突破了瓶颈，发现还有瓶盖qwq
     button:
       enable: true
-      icon: iconfont icon-luogu
-      text: My luogu
-      link: https://www.luogu.com.cn/user/743352
+      icon: fas fa-undefined
+      text: My Email
+      link: mailto:admin@wsq127.top
   card_announcement:
     enable: true
     content: "欢迎各位大佬/神犇来到我的小站"
