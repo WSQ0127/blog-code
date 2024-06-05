@@ -40,10 +40,10 @@ code_word_wrap: false
 #   icon: link || the description || color
 social:
   iconfont icon-qq: http://wpa.qq.com/msgrd?v=3&uin=3341659982&site=qq&menu=yes || QQ
-  iconfont icon-skype: /img/telegram.jpg || Telegram
+  iconfont icon-telegram: /img/telegram.jpg || Telegram
   iconfont icon-skype: https://join.skype.com/invite/spzU1Hq7Gtz4 || Skype
   iconfont icon-outlook: mailto:wsq460127@outlook.com || Outlook
-  iconfont icon-skype: https://www.luogu.com.cn/user/743352 || 洛谷
+  iconfont icon-luogu: https://www.luogu.com.cn/user/743352 || luogu
 
 # Image (圖片設置)
 # --------------------------------------

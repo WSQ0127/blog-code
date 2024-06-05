@@ -1,10 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4365477 */
-  /* Color fonts */
-  src: 
-       url('//at.alicdn.com/t/c/font_4365477_yd9yrkpdr2.woff2?t=1708584233244') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4365477_yd9yrkpdr2.woff?t=1708584233244') format('woff'),
-       url('//at.alicdn.com/t/c/font_4365477_yd9yrkpdr2.ttf?t=1708584233244') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_4365477_c6ygcqyauc.woff2?t=1717581138020') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4365477_c6ygcqyauc.woff?t=1717581138020') format('woff'),
+       url('//at.alicdn.com/t/c/font_4365477_c6ygcqyauc.ttf?t=1717581138020') format('truetype');
 }
 
 .iconfont {
@@ -15,16 +13,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-facebook:before {
-  content: "\e603";
+.icon-discord:before {
+  content: "\e60b";
+}
+
+.icon-telegram:before {
+  content: "\ec25";
 }
 
 .icon-skype:before {
   content: "\e882";
-}
-
-.icon-twiter:before {
-  content: "\e6cf";
 }
 
 .icon-qq:before {
